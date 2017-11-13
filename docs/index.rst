@@ -6,7 +6,7 @@ Solidity
     :alt: Solidity logo
     :align: center
 
-Solidity is a contract-oriented, high-level language whose syntax is similar to that of JavaScript
+Solidity is a contract-oriented, high-level language influenced by C++, Python and JavaScript
 and it is designed to target the Ethereum Virtual Machine (EVM).
 
 Solidity is statically typed, supports inheritance, libraries and complex
